@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8300FF&height=230&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8300FF&size=43&center=true&weight=1000&vCenter=true&width=1000&lines=Hello+Everyone,+My+Name+is+Davi+Almeida;I'm+21+Years+old;I+from+Brasil,+SP;+And+I+Study+About+Web+Development;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8300FF&size=43&center=true&weight=1000&vCenter=true&width=1000&lines=Hello+Everyone,+My+Name+is+Davi+Almeida;Im+21+Years+old;Im+from+Brasil,+SP;+And+I+Study+About+Software+Development;)](https://git.io/typing-svg)
 
 
 # Main Skills
